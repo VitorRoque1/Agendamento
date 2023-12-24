@@ -1,0 +1,14 @@
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.exe
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.deps.json
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.runtimeconfig.json
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.dll
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.pdb
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.AssemblyInfoInputs.cache
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.AssemblyInfo.cs
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.csproj.CoreCompileInputs.cache
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.dll
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\refint\Agendamento.dll
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.pdb
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.genruntimeconfig.cache
+C:\Users\vitor.santos\Desktop\Projeto\Agendamento\Agendamento\obj\Debug\net8.0\ref\Agendamento.dll
