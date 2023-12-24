@@ -5,7 +5,7 @@ Agendamento de consultas
 ◉ Um programa de console com funções simples onde conseguimos marcar consulta, desmarcar, visualizar dias e horários disponíveis para marcar a consulta desejada.
 O intuito do projeto foi para colocar em pratica todo o aprendizado adquirido ao curso C#: Trabalhando com Arrays e Coleções da Alura
 
-O projeto criado foi desenvolvido por mim com todas as informações do zero até o final do proejto
+O projeto criado foi desenvolvido por mim com todas as informações do zero até o final do projeto
 
 Colocado em pratica:  Arrays, definir uma classe como indexável, Linq, Dicionario e coleções e orientação a objetos.
 
